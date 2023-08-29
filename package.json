@@ -1,5 +1,5 @@
 {
-  "name": "lnurl",
+  "name": "@daimgood/lnurl",
   "version": "0.25.0",
   "description": "Node.js implementation of lnurl",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chill117/lnurl-node.git"
+    "url": "git+https://github.com/MakePrisms/lnurl-node.git"
   },
   "keywords": [
     "lnurl",
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chill117/lnurl-node/issues"
+    "url": "https://github.com/MakePrisms/lnurl-node/issues"
   },
-  "homepage": "https://github.com/chill117/lnurl-node",
+  "homepage": "https://github.com/MakePrisms/lnurl-node",
   "dependencies": {
     "async": "3.2.4",
     "bech32": "2.0.0",
